@@ -10,15 +10,14 @@ bhop main:
 
 surf main:
 abseil - spines need fix
-antimatter - spine need fix 
-ascension to heaven - elevated start (walls around spawn platform)
-blurple - spines need fix
+antimatter - spine need fix
 caving in 2 - world record strafes anti teles for +20 unit
 cobble - bumpy ramps, spines need fix
 desolate - oob
 discord - spines need fix, ends of ramps are bumpy (gray part)
 extirpate - oob
 giza - spines need fix
+gondal - faste oob
 grid - oob
 halloween - s4 oob (watch faste wr, can be hit in autohop)
 hole in one - sextuple telehop oob
@@ -49,13 +48,12 @@ stones - elevated start (anti-telehop)
 tetratronic - unintended shortcut unsure about this one (watch #1 and #5)
 the crest experience - bumpy ramps
 the wanderer - bad spines
-tie - bad spines
 tom cruise - bad spines
 tranquil - bumpy 2nd ramp, ends of ramps are bumps
 truecetric - bumpy ramps
 trumpwall2020 - last stage has bumpy ramps and bad spines
 trying again - s1 oob
-tumb - weird invisible part at first weave, bumpy ramps
+tumb - bumpy ramps
 tyrian - bumpy ramps
 valpect - bad spines
 vanish 2 - bad spines
@@ -212,6 +210,7 @@ too short:
 5692169206 - Monochrome	- 12s
 5692139997 - Nexus - 10s
 5692139403 - Nougat - 6s GOOD RIDDANCE
+5732189727 - Ocean Foam - 7s
 5692098168 - Orange Crush - 9s
 5692099061 - Orange Darkness - 5s
 5692185894 - Pale - 9s
